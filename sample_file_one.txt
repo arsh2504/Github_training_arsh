@@ -1,1 +1,3 @@
-This sample file 1
+This sample file 1 
+
+After you've set up your SSH key and added it to your account on GitHub.com, you can test your connection.
