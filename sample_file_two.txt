@@ -1,1 +1,3 @@
 This sample file 2
+
+This is comparison lecture , change in file 2.
